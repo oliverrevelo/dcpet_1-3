@@ -1,3 +1,19 @@
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background: #fff; 
+}
+
+::-webkit-scrollbar-thumb {
+    background: #800000; 
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #800000; 
+}
+
 body {
     font-family: Arial, Helvetica, sans-serif;
     margin: 0;
